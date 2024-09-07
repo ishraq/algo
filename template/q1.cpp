@@ -1,21 +1,23 @@
-/**
- *    author:  tourist
- *    created: $CURRENT_DATE.$CURRENT_MONTH.$CURRENT_YEAR $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND
-**/
 #include <bits/stdc++.h>
+
+#ifdef DEBUG
+#include </Users/ishraq/competitive-programming/lib/debug.h>
+#else
+#define dbg(...)
+#define dbgarr(...)
+#endif
+
+#define fo(i, a, b) for (int i = (a); i < (b); i++)
+#define sz(v) int(v.size())
+#define eb emplace_back
+#define pb push_back
 
 using namespace std;
 
-#ifdef LOCAL
-#include "algo/debug.h"
-#else
-#define debug(...) 42
-#endif
+typedef long long ll;
+typedef unsigned long long ull;
 
 int main() {
-  ios::sync_with_stdio(false);
-  cin.tie(nullptr);
-  ${0}
-  return 0;
+    ${0}
+    return 0;
 }
-
