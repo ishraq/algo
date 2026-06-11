@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 #ifdef DEBUG
-#include </Users/ishraq/competitive-programming/lib/debug.h>
+#include <debug.h>
 #else
 #define dbg(...)
 #define dbgarr(...)
