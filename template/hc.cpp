@@ -18,11 +18,10 @@ typedef long long ll;
 typedef unsigned long long ull;
 
 int main() {
-    int tt;
-    cin >> tt;
-    for (int qq = 1; qq <= tt; qq++) {
-        cout << "Case #" << qq << ": ";
-        ${0}
-    }
-    return 0;
+  int tt;
+  cin >> tt;
+  for (int qq = 1; qq <= tt; qq++) {
+    cout << "Case #" << qq << ": ";
+  }
+  return 0;
 }
